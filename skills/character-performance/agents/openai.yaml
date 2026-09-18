@@ -1,0 +1,3 @@
+interface:
+  display_name: "Character Performance"
+  short_description: "Infer believable character behavior from established traits and context."

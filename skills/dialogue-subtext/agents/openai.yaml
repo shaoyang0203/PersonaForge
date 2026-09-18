@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dialogue & Subtext"
+  short_description: "Shape character-specific dialogue, expression costs, and subtext."
